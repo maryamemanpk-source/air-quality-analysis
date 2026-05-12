@@ -22,4 +22,4 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 Naive Bayes performed best for classification, while K-Means helped identify hidden pollution patterns.
 
 ## Author
-Your Name
+Maryam Eman
